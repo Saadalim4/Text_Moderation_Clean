@@ -1,5 +1,3 @@
-<img width="1134" alt="Screenshot 2025-06-28 at 10 14 12 PM" src="https://github.com/user-attachments/assets/1d796666-4592-4a7f-aaaf-5cdb835b5f78" /># Text_Moderation
-
 🧠 Text Moderation AI
 
 A modular and powerful AI-driven content moderation tool. Built to detect, analyze, and sanitize user-generated content in real-time. Includes a sleek web interface for testing and demoing moderation outputs.
