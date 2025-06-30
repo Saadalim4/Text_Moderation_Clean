@@ -1,8 +1,8 @@
-Text Moderation AI
+**Text Moderation AI** 
 
 A modular and powerful AI-driven content moderation tool. Built to detect, analyze, and sanitize user-generated content in real-time. Includes a sleek web interface for testing and demoing moderation outputs.
 
-Features:
+**Features:**
 
 AI-based Moderation – Automatically detects offensive or policy-violating text.
 
@@ -22,7 +22,7 @@ Modular Architecture – Easily plug in new models or services.
 Lightweight & Fast – Minimal dependencies, fast performance.
 
 
-Tech Stack:
+**Tech Stack:**
 
 
 Layer	Technology
