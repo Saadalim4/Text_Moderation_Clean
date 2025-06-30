@@ -5,13 +5,24 @@ A modular and powerful AI-driven content moderation tool. Built to detect, analy
 Features:
 
 AI-based Moderation – Automatically detects offensive or policy-violating text.
-Custom Moderation Layer – Handles edge cases and applies business rules.
-Groq LLM Integration – Fast and scalable inference through the GroqCloud API.
-Interactive Streamlit Dashboard – Test and visualize moderation outcomes.
-Modular Architecture – Easily plug in new models or services.
-Lightweight & Fast – Minimal dependencies, fast performance.
-Tech Stack
 
+
+Custom Moderation Layer – Handles edge cases and applies business rules.
+
+
+Groq LLM Integration – Fast and scalable inference through the GroqCloud API.
+
+
+Interactive Streamlit Dashboard – Test and visualize moderation outcomes.
+
+
+Modular Architecture – Easily plug in new models or services.
+
+
+Lightweight & Fast – Minimal dependencies, fast performance.
+
+
+Tech Stack:
 Layer	Technology
 Frontend	Streamlit for UI
 Backend	Python-based custom logic
