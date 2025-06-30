@@ -1,16 +1,16 @@
-🧠 Text Moderation AI
+Text Moderation AI
 
 A modular and powerful AI-driven content moderation tool. Built to detect, analyze, and sanitize user-generated content in real-time. Includes a sleek web interface for testing and demoing moderation outputs.
 
-🚀 Features
+Features:
 
-🔍 AI-based Moderation – Automatically detects offensive or policy-violating text.
-⚙️ Custom Moderation Layer – Handles edge cases and applies business rules.
-🤖 Groq LLM Integration – Fast and scalable inference through the GroqCloud API.
-🧪 Interactive Streamlit Dashboard – Test and visualize moderation outcomes.
-🔌 Modular Architecture – Easily plug in new models or services.
-📦 Lightweight & Fast – Minimal dependencies, fast performance.
-🧰 Tech Stack
+AI-based Moderation – Automatically detects offensive or policy-violating text.
+Custom Moderation Layer – Handles edge cases and applies business rules.
+Groq LLM Integration – Fast and scalable inference through the GroqCloud API.
+Interactive Streamlit Dashboard – Test and visualize moderation outcomes.
+Modular Architecture – Easily plug in new models or services.
+Lightweight & Fast – Minimal dependencies, fast performance.
+Tech Stack
 
 Layer	Technology
 Frontend	Streamlit for UI
