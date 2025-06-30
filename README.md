@@ -23,12 +23,25 @@ Lightweight & Fast – Minimal dependencies, fast performance.
 
 
 Tech Stack:
+
+
 Layer	Technology
+
 Frontend	Streamlit for UI
+
+
 Backend	Python-based custom logic
+
+
 AI Model	Groq LLM integration via API
+
+
 API Client	requests for handling API calls
+
+
 Config Management	Environment variables / config.py
+
+
 Utilities	JSON parsing, text formatting, model routing
 
 
